@@ -1,13 +1,12 @@
 # Paris_Housing_Price_Prediction
 Prediction of housing prices using regression model
-===========================================================================
-Use case- This model is used to predict/determine the price of housing using housing determinant factors(variables). 
-============================================================================
+
+**Use case- This model is used to predict/determine the price of housing using housing determinant factors(variables).** 
+
 Analysis-
 The dataset was then analyzed by checking different relationships between the independents variables and between the independent and dependent variables.
 
-Methods used in the analysis are - Using Sea-born(sns), Bar-plot and Line-plot were plotted to show these relationships.
-============================================================================
+**Methods used in the analysis are - Using Sea-born(sns), Bar-plot and Line-plot were plotted to show these relationships.**
 
 Building the Model:
 Regression Models were used - RidgeRegression and LinearRegression were used for the analysis
